@@ -1,6 +1,15 @@
 {
   "events": [
     {
+      "event_name": "IRC 2026",
+      "event_detail": "Team Vicharaka represents the innovation and drive of the IISc undergraduate community at the International Rover Challenge (IRC) 2026. Composed entirely of first- and second-year students, the team is dedicated to engineering a next-generation Mars rover capable of navigating the harsh, simulated Martian landscapes of the competition. IRC serves as a global proving ground for space robotics, challenging us to build autonomous systems that could one day aid astronauts in the exploration of the Red Planet.",
+      "event_date": "2026-06-01",
+      "images_array": [
+        "./images/IRC_2026/rover2.jpg",
+        "./images/IRC_2026/team.jpeg"
+      ]
+    },
+    {
       "event_name": "ERC 2025",
       "event_detail": "Team Vicharaka is a team of first- and second-year students from the IISc UG programmes participating in the European Rover Challenge (ERC) 2025. The ERC is one of the world’s leading robotics competitions for university students, held annually in Poland. ERC challenges student teams to design and build the next generation of Mars rovers to assist astronauts in future planetary exploration.",
       "event_date": "2025-06-01",
@@ -84,6 +93,18 @@
   ],
   "activities": [
     {
+      "activity_name": "IRC 2026",
+      "activity_detail": "Participated in IRC 2026",
+      "activity_image": "./images/IRC_2026/rover2.jpg",
+      "activity_page_link": "IRC_2026.html"
+    },
+    {
+      "activity_name": "URC 2025",
+      "activity_detail": "Participated in URC 2025",
+      "activity_image": "./images/URC_2025/img_2.jpg",
+      "activity_page_link": "URC_2025.html"
+    },
+    {
       "activity_name": "ERC 2025",
       "activity_detail": "Participated in ERC 2025",
       "activity_image": "./images/ERC_2025/Rover_img.png",
@@ -94,12 +115,6 @@
       "activity_detail": "Participated in URC 2024",
       "activity_image": "./images/URC_2024/img_3.jpeg",
       "activity_page_link": "URC_2024.html"
-    },
-    {
-      "activity_name": "URC 2025",
-      "activity_detail": "Participated in URC 2025",
-      "activity_image": "./images/URC_2025/img_2.jpg",
-      "activity_page_link": "URC_2025.html"
     }
   ]
 }

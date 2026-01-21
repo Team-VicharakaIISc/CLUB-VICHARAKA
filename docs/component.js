@@ -71,17 +71,17 @@ export async function GenerateFooter(footerContainer) {
     </p>
     <h3 class="text-xl font-semibold mt-4 mb-2">Contact us</h3>
     <div class="flex justify-center md:justify-start space-x-4 mb-4">
-      <a href="#">
+      <a href="https://github.com/Team-VicharakaIISc" target="_blank" rel="noopener noreferrer">
         <img src="./images/github.png" class="w-10 h-10 hover:scale-150 ease-in-out duration-300">
       </a>
-      <a href="#">
+      <a href="https://www.linkedin.com/company/team-vicharaka-iisc/" target="_blank" rel="noopener noreferrer">
         <img src="./images/linkedin.png" class="w-10 h-10 hover:scale-150 ease-in-out duration-300">
       </a>
-      <a href="#">
+      <a href="https://www.instagram.com/vicharaka_iisc" target="_blank" rel="noopener noreferrer">
         <img src="./images/instagram.png" class="w-10 h-10 hover:scale-150 ease-in-out duration-300">
       </a>
 
-      <a href="#">
+      <a href="https://www.youtube.com/@vicharaka_iisc" target="_blank" rel="noopener noreferrer">
         <img src="./images/youtube.png" class="w-10 h-10 hover:scale-150 ease-in-out duration-300">
       </a>
     </div>
